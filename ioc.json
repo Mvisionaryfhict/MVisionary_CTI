@@ -1,0 +1,20 @@
+[
+  {
+    "indicator": "45.67.89.12",
+    "ioc_type": "ip",
+    "malware": "RedLine",
+    "confidence_score": 80
+  },
+  {
+    "indicator": "maliciousfile.exe",
+    "ioc_type": "filename",
+    "malware": "LummaStealer",
+    "confidence_score": 60
+  },
+  {
+    "indicator": "4f6e7c849f281e8d9e0a77082327b9b5",
+    "ioc_type": "md5",
+    "malware": "AgentTesla",
+    "confidence_score": 90
+  }
+]
